@@ -5,12 +5,12 @@
     font-size: 44px;
     font-weight: bold;
     line-height: 34px;
-    height: 74px;
+    height: 104px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 74px;
+    width: 104px;
 }
 
 .square:focus {
